@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/entra",
+      "destination": "https://t.me/Josegonzalez21?text=Hola,%20quiero%20mi%20partida%20gratis",
+      "permanent": false
+    },
+    {
+      "source": "/",
+      "destination": "https://t.me/Josegonzalez21?text=Hola,%20quiero%20mi%20partida%20gratis",
+      "permanent": false
+    }
+  ]
+}
