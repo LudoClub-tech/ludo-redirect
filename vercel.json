@@ -2,12 +2,12 @@
   "redirects": [
     {
       "source": "/entra",
-      "destination": "https://t.me/+BidNp8DzGrdkOWVh",
+      "destination": "https://t.me/Josegonzalez21?text=Hola,%20quiero%20informaci%C3%B3n%20para%20jugar%20Ludo%20con%20premios",
       "permanent": false
     },
     {
       "source": "/",
-      "destination": "https://t.me/+BidNp8DzGrdkOWVh",
+      "destination": "https://t.me/Josegonzalez21?text=Hola,%20quiero%20informaci%C3%B3n%20para%20jugar%20Ludo%20con%20premios",
       "permanent": false
     }
   ]
